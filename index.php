@@ -29,7 +29,7 @@
                     <input type="password" id="Password" name="Password" placeholder="Password">
                 </div>
                 <div>
-                    <input type="button" class="btn" value="Register" onclick="">
+                    <input type="button" class="btn" value="Register" onclick="validation()">
                 </div>
             </form>
         </div>
